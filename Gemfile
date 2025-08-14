@@ -62,3 +62,5 @@ end
 
 # Added by me
   gem "ostruct"
+gem 'rspec-rails', group: [ :test ]
+gem 'rails-controller-testing', group: [ :test ]
